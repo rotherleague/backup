@@ -4,3 +4,5 @@ theme:
 permalink: /blog/:year/:month/:day/:title
 plugins:
   - jekyll-sitemap
+# Google Analytics
+google_analytics: UA—XXXXXXXX-X
