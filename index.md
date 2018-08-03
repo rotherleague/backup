@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
 
-[https://rotherleague.github.io/webiste/]https://rotherleague.github.io/webiste/
+[https://rotherleague.github.io/webiste/]
+
+[teams.html]
 
 You can use the [editor on GitHub](https://github.com/rotherleague/webiste/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
